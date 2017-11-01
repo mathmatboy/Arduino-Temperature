@@ -4,7 +4,7 @@ Petit programme arduino qui permet d'afficher un capteur température sur un lcd
 V1.4.2
 
 -LCD16x2 avec deux capteur de température DTH11 et deux module RF433mhz (ARM MCU WL)
--Capteur température dans ma maison et capteur de température pour l'extérieur.
+-Capteur température dans la maison et capteur de température pour l'extérieur.
 
 
 V1.4.1
