@@ -11,6 +11,8 @@ Projet station de température à partir de l'arduino.
 * Deux résistance 220 Ohms 5%
 * Led rouge
 * LCD16x2
+* Breadboard
+* Fil a breadboard
 
 ## Versions
 
