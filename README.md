@@ -1,3 +1,5 @@
+![Math logo](logo1.png)
+
 # Arduino-Temperature
 
 Projet station de température à partir de l'arduino.
