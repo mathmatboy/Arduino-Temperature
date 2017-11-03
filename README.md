@@ -1,4 +1,4 @@
-![Math logo](logo1.png)
+![Math logo](logo3.png)
 
 # Arduino-Temperature
 
