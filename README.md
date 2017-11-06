@@ -20,6 +20,10 @@ Projet station de température à partir de l'arduino.
 
 Version du programme.
 
+### V1.4.3
+
+* Ajout d'une led pour vérifier la réception (RF).
+
 ### V1.4.2
 
 * LCD16x2 avec deux capteur de température DTH11 et deux module RF433mhz (ARM MCU WL)
