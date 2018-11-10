@@ -26,23 +26,21 @@ Version du programme.
 
 ### V1.4.2
 
-* LCD16x2 avec deux capteur de température DTH11 et deux module RF433mhz (ARM MCU WL)
-* Capteur température dans la maison et capteur de température pour l'extérieur.
-
+* Ajout Capteur de température dans la maison.
+* Ajout d'icone
 
 ### V1.4.1
 
-* LCD16x2 avec un capteur de température DTH11 et deux module RF433mhz (ARM MCU WL)
-* Correction quelque bug.
+* Correction quelque bug de la version V1.4
 
 ### V1.4
 
-* LCD16x2 avec un capteur de température DTH11 et deux module RF433mhz (ARM MCU WL)
+* LCD16x2 avec un capteur de température DTH11 et deux modules RF433mhz (ARM MCU WL)
 
 ### V1.3
 
 * LCD16x2 avec un capteur de température DTH11 et deux module RF (NRF24LO1)
-* PS: À noter que cette version n'est pas stable encore (Quelque bug à corrigé)
+* PS: À noter que cette version n'est pas stable encore (Quelque bug à corrigée)
 
 ### V1.0 à V1.1 
 
