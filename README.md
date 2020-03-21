@@ -20,6 +20,10 @@ Projet station de température à partir de l'arduino.
 
 Version du programme.
 
+### V1.4.4
+
+* Ajout message d'erreur sur la communication RF.
+
 ### V1.4.3
 
 * Ajout d'une led pour vérifier la réception (RF).
