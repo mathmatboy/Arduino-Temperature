@@ -15,6 +15,7 @@ Projet station de température à partir de l'arduino.
 * LCD16x2
 * Breadboard
 * Fil à breadboard
+* Boitier imprimé avec une imprimante 3D
 
 ## Versions
 
