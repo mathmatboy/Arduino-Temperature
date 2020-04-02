@@ -4,6 +4,8 @@
 
 Projet station de température à partir de l'arduino.
 
+**=> Screenshots plus bas**
+
 ## Liste des Composantes
 
 * Deux arduino uno (Microcontroleur)
@@ -50,4 +52,18 @@ Version du programme.
 ### V1.0 à V1.1 
 
 * LCD16x2 avec une capteur de température TMP36
+
+# Plan électrique réalisé avec Fritzing
+
+![Plan-rx](/img/arduino temperature RX v1.4.3.jpg)
+
+![Plan-TX](/img/arduino temperature TX v1.4_bb.jpg)
+
+# Screenshot
+
+![Screen-1](/img/1.jpg)
+
+![Screen-2](/img/2.jpg)
+
+![Screen-3](/img/3.jpg)
 
