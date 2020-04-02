@@ -55,9 +55,9 @@ Version du programme.
 
 # Plan électrique réalisé avec Fritzing
 
-![Plan-rx](/img/arduino temperature RX v1.4.3.jpg)
+![Plan-rx](/img/arduinotemperatureRXv1.4.3.jpg)
 
-![Plan-TX](/img/arduino temperature TX v1.4_bb.jpg)
+![Plan-TX](/img/arduinotemperatureTXv1.4_bb.jpg)
 
 # Screenshot
 
